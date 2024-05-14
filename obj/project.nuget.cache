@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSzzKdX7EqoIAGD5GCkIJQDv+cnblLCiZs7SlIjmSBSnX/dWW4YS6QsSz+sAXNMhnEOGLTwl+LJybuXASDKxCQ==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Repos\\DesingPatterns\\DesingPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ederc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

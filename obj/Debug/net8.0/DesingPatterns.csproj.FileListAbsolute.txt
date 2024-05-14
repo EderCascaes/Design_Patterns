@@ -1,0 +1,17 @@
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\DesingPatterns.exe
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\DesingPatterns.deps.json
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\DesingPatterns.runtimeconfig.json
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\DesingPatterns.dll
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\DesingPatterns.pdb
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.AssemblyInfoInputs.cache
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.AssemblyInfo.cs
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.csproj.CoreCompileInputs.cache
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.dll
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\refint\DesingPatterns.dll
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.pdb
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.genruntimeconfig.cache
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\ref\DesingPatterns.dll
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPatterns.csproj.AssemblyReference.cache
+D:\Git\Repos\DesingPatterns\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\Repos\DesingPatterns\obj\Debug\net8.0\DesingPa.BB13A1C1.Up2Date
