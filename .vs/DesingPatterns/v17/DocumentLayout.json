@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Repos\\DesingPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\state\\rentcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\state\\rentcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\state\\requestcanceledstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\state\\requestcanceledstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\state\\irentcarsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\state\\irentcarsstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\state\\requesmadestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\state\\requesmadestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\observer\\comunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\observer\\comunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\observer\\reception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\observer\\reception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\observer\\interface\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\observer\\interface\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\behavior\\observer\\interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:behavior\\observer\\interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|d:\\git\\repos\\desingpatterns\\structural\\facade\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3907D3EB-C323-42AD-9FC6-A123EC87148D}|DesingPatterns.csproj|solutionrelative:structural\\facade\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestCanceledState.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RequestCanceledState.cs",
+              "RelativeDocumentMoniker": "Behavior\\State\\RequestCanceledState.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RequestCanceledState.cs",
+              "RelativeToolTip": "Behavior\\State\\RequestCanceledState.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:49:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Interface\\ISubject.cs",
+              "RelativeDocumentMoniker": "Behavior\\Observer\\Interface\\ISubject.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Interface\\ISubject.cs",
+              "RelativeToolTip": "Behavior\\Observer\\Interface\\ISubject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:55:43.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAqwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:31:15.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentCars.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RentCars.cs",
+              "RelativeDocumentMoniker": "Behavior\\State\\RentCars.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RentCars.cs",
+              "RelativeToolTip": "Behavior\\State\\RentCars.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:10:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequesMadeState.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RequesMadeState.cs",
+              "RelativeDocumentMoniker": "Behavior\\State\\RequesMadeState.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\RequesMadeState.cs",
+              "RelativeToolTip": "Behavior\\State\\RequesMadeState.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:52:47.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRentCarsState.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\IRentCarsState.cs",
+              "RelativeDocumentMoniker": "Behavior\\State\\IRentCarsState.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\State\\IRentCarsState.cs",
+              "RelativeToolTip": "Behavior\\State\\IRentCarsState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:51:04.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comunication.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Comunication.cs",
+              "RelativeDocumentMoniker": "Behavior\\Observer\\Comunication.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Comunication.cs",
+              "RelativeToolTip": "Behavior\\Observer\\Comunication.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:31:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Interface\\IObserver.cs",
+              "RelativeDocumentMoniker": "Behavior\\Observer\\Interface\\IObserver.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Interface\\IObserver.cs",
+              "RelativeToolTip": "Behavior\\Observer\\Interface\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:25:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reception.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Reception.cs",
+              "RelativeDocumentMoniker": "Behavior\\Observer\\Reception.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Behavior\\Observer\\Reception.cs",
+              "RelativeToolTip": "Behavior\\Observer\\Reception.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:35:00.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\DesingPatterns\\Structural\\Facade\\Car.cs",
+              "RelativeDocumentMoniker": "Structural\\Facade\\Car.cs",
+              "ToolTip": "D:\\Git\\Repos\\DesingPatterns\\Structural\\Facade\\Car.cs",
+              "RelativeToolTip": "Structural\\Facade\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:59:25.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
